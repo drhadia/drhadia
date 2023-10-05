@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hitesh.hadia@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1Dl7l4t7jQ0Ff2ohA_tUJTInYK-Yhksmr/view?usp=sharing){:target="_blank"}
+- 📄  <a href="https://drive.google.com/file/d/1Dl7l4t7jQ0Ff2ohA_tUJTInYK-Yhksmr/view?usp=sharing" target="blank">Know about my experiences</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
