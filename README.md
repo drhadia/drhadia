@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drhadia" alt="drhadia" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hadia_dr" target="blank"><img src="https://img.shields.io/twitter/follow/hadia_dr?logo=twitter&style=for-the-badge" alt="hadia_dr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hadia_dr" target="_blank"><img src="https://img.shields.io/twitter/follow/hadia_dr?logo=twitter&style=for-the-badge" alt="hadia_dr" /></a> </p>
 
 - 📫 How to reach me **hitesh.hadia@gmail.com**
 
-- 📄  <a href="https://drive.google.com/file/d/1Dl7l4t7jQ0Ff2ohA_tUJTInYK-Yhksmr/view?usp=sharing" target="blank">Know about my experiences</a>
+- 📄  <a href="https://drive.google.com/file/d/1Dl7l4t7jQ0Ff2ohA_tUJTInYK-Yhksmr/view?usp=sharing" target="_blank">Know about my experiences</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
